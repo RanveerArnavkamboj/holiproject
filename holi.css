@@ -149,7 +149,7 @@ nav a{
 .about{
   padding:25px 0;
 }
-@media (min-width:1024px){
+@media (min-width:765px){
 .p3{
   display:block;
 }
