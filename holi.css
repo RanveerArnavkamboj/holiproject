@@ -149,6 +149,16 @@ nav a{
 .about{
   padding:25px 0;
 }
+@media (min-width:640px){
+  .pc{
+    grid-template-columns:1fr 1fr;
+    grid-template-rows:1fr;
+  }
+    .p3{
+      display:none;
+    }
+  
+}
 @media (min-width:1024px){
 .p3{
   display:block;
